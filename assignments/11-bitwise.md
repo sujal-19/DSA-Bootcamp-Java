@@ -3,14 +3,14 @@
 ## Problems
 
 ## Easy
-- [Add Binary](https://leetcode.com/problems/add-binary/)
-- [Single Number](https://leetcode.com/problems/single-number/)
-- [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
-- [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
-- [Counting Bits](https://leetcode.com/problems/counting-bits/)
+- [Add Binary](https://leetcode.com/problems/add-binary/)-->Done
+- [Single Number](https://leetcode.com/problems/single-number/)-->Done
+- [Reverse Bits](https://leetcode.com/problems/reverse-bits/)-->Done
+- [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)-->Done
+- [Counting Bits](https://leetcode.com/problems/counting-bits/)-->Done
 - [Binary Watch](https://leetcode.com/problems/binary-watch/)
-- [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
-- [Number Complement](https://leetcode.com/problems/number-complement/)
+- [Hamming Distance](https://leetcode.com/problems/hamming-distance/)-->Done
+- [Number Complement](https://leetcode.com/problems/number-complement/)-->Done
 - [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
 - [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)
 - [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)
