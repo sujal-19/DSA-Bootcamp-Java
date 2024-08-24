@@ -15,7 +15,7 @@
 - [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)
 - [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)
 - [Binary Gap](https://leetcode.com/problems/binary-gap/)
-- [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
+- [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)-->Dome
 - [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
 - [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)-->Done
 - [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)
