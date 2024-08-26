@@ -11,7 +11,7 @@
 - [Binary Watch](https://leetcode.com/problems/binary-watch/)
 - [Hamming Distance](https://leetcode.com/problems/hamming-distance/)-->Done
 - [Number Complement](https://leetcode.com/problems/number-complement/)-->Done
-- [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
+- [Set Mismatch](https://leetcode.com/problems/set-mismatch/)-->Done
 - [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)
 - [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)
 - [Binary Gap](https://leetcode.com/problems/binary-gap/)
