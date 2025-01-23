@@ -12,7 +12,7 @@
 - [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 - [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)-->Done
 - [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)-->Done
-- [Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/)
+- [Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/)-->Done
 - [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)-->Done
 - [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
@@ -33,7 +33,7 @@
 - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 - [Find Right Interval](https://leetcode.com/problems/find-right-interval/)
-- [Reach a Number](https://leetcode.com/problems/reach-a-number/)
+- [Reach a Number](https://leetcode.com/problems/reach-a-number/)-->Done
 - [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/)
 - [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
 - [Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/)
