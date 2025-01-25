@@ -15,7 +15,7 @@
 - [Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/)-->Done
 - [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)-->Done
 - [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
-- [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+- [Search Insert Position](https://leetcode.com/problems/search-insert-position/)-->Done
 - [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)-->Done
 - [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)-->Done
@@ -31,11 +31,11 @@
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-- [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
-- [Find Right Interval](https://leetcode.com/problems/find-right-interval/)
+- [Find Peak Element](https://leetcode.com/problems/find-peak-element/)-->Done
+- [Find Right Interval](https://leetcode.com/problems/find-right-interval/)-->Done
 - [Reach a Number](https://leetcode.com/problems/reach-a-number/)-->Done
 - [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/)
-- [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
+- [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)-->Done
 - [Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/)
 - [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 - [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/)
