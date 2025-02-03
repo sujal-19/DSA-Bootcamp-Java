@@ -11,7 +11,7 @@
 - [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
 - [Check if two strings are equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
 - [To Lower Case](https://leetcode.com/problems/to-lower-case/)-->Done
-- [Determine if string halves are alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)
+- [Determine if string halves are alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)-->Done
 - [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)
 - [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)-->Done
 - [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
@@ -23,7 +23,7 @@
 - [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/)-->Done
-- [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)
+- [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)-->Done
 - [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
 - [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)
 - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
