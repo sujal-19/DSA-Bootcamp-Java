@@ -7,9 +7,9 @@
 - [Defanging an Ip address](https://leetcode.com/problems/defanging-an-ip-address/)
 - [Shuffle String](https://leetcode.com/problems/shuffle-string/)
 - [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)
-- [Count Items Matching a rule](https://leetcode.com/problems/count-items-matching-a-rule/)
-- [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
-- [Check if two strings are equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
+- [Count Items Matching a rule](https://leetcode.com/problems/count-items-matching-a-rule/)-->Done
+- [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)-->Done
+- [Check if two strings are equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)-->Done
 - [To Lower Case](https://leetcode.com/problems/to-lower-case/)-->Done
 - [Determine if string halves are alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)-->Done
 - [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)
@@ -19,7 +19,7 @@
 - [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)-->Done
 - [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 - [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)-->Done
-- [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)-->Done
 - [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)-->Done
 - [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/)-->Done
