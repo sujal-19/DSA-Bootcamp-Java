@@ -26,11 +26,11 @@
 - [Binary Search](https://leetcode.com/problems/binary-search/)-->Done
 
 ## Medium
-- [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
-- [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
-- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-- [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
-- [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)-->Done
+- [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)-->Done
+- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)-->Done
+- [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)-->Done
+- [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)-->Done 
 - [Find Peak Element](https://leetcode.com/problems/find-peak-element/)-->Done
 - [Find Right Interval](https://leetcode.com/problems/find-right-interval/)-->Done
 - [Reach a Number](https://leetcode.com/problems/reach-a-number/)-->Done
