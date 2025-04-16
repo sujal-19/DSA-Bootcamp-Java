@@ -46,8 +46,8 @@
 - [4Sum](https://leetcode.com/problems/4sum/)-->Done
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
-- [Sort Colors](https://leetcode.com/problems/sort-colors/)
-- [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
+- [Sort Colors](https://leetcode.com/problems/sort-colors/)-->Done
+- [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)-->Done
 - [Sort List](https://leetcode.com/problems/sort-list/)-->Done
 - [Largest Number](https://leetcode.com/problems/largest-number/)-->Done
 - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)-->Done
