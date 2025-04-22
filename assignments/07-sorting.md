@@ -42,9 +42,9 @@
 
 ## Medium
 - [3Sum](https://leetcode.com/problems/3sum/)-->Done
-- [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+- [3Sum Closest](https://leetcode.com/problems/3sum-closest/)-->Done
 - [4Sum](https://leetcode.com/problems/4sum/)-->Done
-- [Group Anagrams](https://leetcode.com/problems/group-anagrams/)-->Done
+- [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals/)-->Done
 - [Sort Colors](https://leetcode.com/problems/sort-colors/)-->Done
 - [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)-->Done
