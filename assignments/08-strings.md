@@ -42,9 +42,9 @@
 - [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/)
 - [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
 - [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
-- [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)
-- [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/)
-- [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)
+- [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)-->Done
+- [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/)-->Done
+- [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)-->Done
 - [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)
 - [Shifting Letters](https://leetcode.com/problems/shifting-letters/)
 - [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)-->Done
