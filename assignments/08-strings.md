@@ -40,7 +40,7 @@
 - [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)-->Done
 - [Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/)-->Done
 - [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/)
-- [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
+- [Multiply Strings](https://leetcode.com/problems/multiply-strings/)-->Done
 - [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
 - [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)-->Done
 - [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/)-->Done
