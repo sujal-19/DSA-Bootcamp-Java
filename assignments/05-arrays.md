@@ -26,16 +26,16 @@
 21. [Two Sum](https://leetcode.com/problems/two-sum/)-->Done
 22. [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)-->Done
 23. [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)-->Done
-24. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+**24. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)-->Done**
 25. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
 26. [Plus One](https://leetcode.com/problems/plus-one/)-->Done
 27. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)-->Done
 28. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
 
 ### Medium
-1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
-2. [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
-3. [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)
+1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)-->Done
+2. [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)-->Done
+3. [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)-->Done
 4. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)-->Done
 5. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)-->Done
 6. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)-->Done
