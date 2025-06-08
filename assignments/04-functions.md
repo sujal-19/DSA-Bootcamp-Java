@@ -26,8 +26,8 @@ Marks        Grade
 <=40          Fail 
 </pre>
 
-9. [Write a program to print the factorial of a number by defining a method named 'Factorial'.](https://www.javatpoint.com/factorial-program-in-java)-->Done
-Factorial of any number n is represented by n! and is equal to 1 * 2 * 3 * .... * (n-1) *n. E.g.- <br/>
+9. [Write a program to print the factorial of a number by defining a method named 'Factorial'.](https://www.javatpoint.com/factorial-program-in-java)
+Factorial of any number n is represented by n! and is equal to 1 * 2 * 3 * .... * (n-1) *n. E.g.-  -->Done<br/>
 <pre>
 4! = 1 * 2 * 3 * 4 = 24 
 3! = 3 * 2 * 1 = 6 
